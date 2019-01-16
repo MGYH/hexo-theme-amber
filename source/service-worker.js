@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.51ec1d17e565e44db8a0aa0a6869866b.js"
+  "/precache-manifest.06812ff5452bc91ec0ff99f198fb06aa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hexo-theme-amber"});
