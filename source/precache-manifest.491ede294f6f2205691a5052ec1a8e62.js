@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "e1c484ea29c4898d4ec5",
-    "url": "/js/articles~home~pages.ced163f8.js"
+    "revision": "1f2e06c63a3ecfbd765b",
+    "url": "/js/articles~home~pages.dd6ed0fe.js"
   },
   {
-    "revision": "37e13cfa404a217f1514b6bd4594e68c",
+    "revision": "c7e2163bd960c7672fd8696b06ff0c01",
     "url": "/index.html"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/js/dplayer.059be256.js"
   },
   {
-    "revision": "ac78250e46ea4393e995",
-    "url": "/js/app.f2912684.js"
+    "revision": "87986f0126ee7912b7c9",
+    "url": "/js/app.9b89618c.js"
   },
   {
     "revision": "f6097c8e44057cd3be14",
@@ -136,6 +136,10 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_SansSerif-Bold.91efef29.woff2"
   },
   {
+    "revision": "ff63137930f4ab783837f2eba5cc5f16",
+    "url": "/fonts/KaTeX_SansSerif-Italic.ff631379.woff2"
+  },
+  {
     "revision": "fd6852d4ac7b37575a7fea0708355ce3",
     "url": "/fonts/KaTeX_SansSerif-Regular.fd6852d4.woff2"
   },
@@ -162,10 +166,6 @@ self.__precacheManifest = [
   {
     "revision": "b790cf180d62ae91960d6b46cbb3905e",
     "url": "/fonts/KaTeX_Size4-Regular.b790cf18.ttf"
-  },
-  {
-    "revision": "ff63137930f4ab783837f2eba5cc5f16",
-    "url": "/fonts/KaTeX_SansSerif-Italic.ff631379.woff2"
   },
   {
     "revision": "c7e386dd35c841d1a8f9e11fd1a11010",
@@ -200,12 +200,12 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Main-Italic.c9d5a32d.woff2"
   },
   {
-    "revision": "96b229786edd80e54fa2b68c5f032960",
-    "url": "/fonts/KaTeX_Math-BoldItalic.96b22978.woff2"
-  },
-  {
     "revision": "6091397cdc326cf8c8f7b648e2341483",
     "url": "/fonts/KaTeX_Math-BoldItalic.6091397c.woff"
+  },
+  {
+    "revision": "96b229786edd80e54fa2b68c5f032960",
+    "url": "/fonts/KaTeX_Math-BoldItalic.96b22978.woff2"
   },
   {
     "revision": "4b3b168e2b5e74b24c10acd7316488d1",
@@ -220,6 +220,10 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_SansSerif-Bold.e08eb433.woff"
   },
   {
+    "revision": "ada012c291bf50cf9a349ceb98df6659",
+    "url": "/fonts/KaTeX_SansSerif-Italic.ada012c2.woff"
+  },
+  {
     "revision": "c789d74a74097a2e9a1bb50f8714b531",
     "url": "/fonts/KaTeX_SansSerif-Regular.c789d74a.woff"
   },
@@ -230,10 +234,6 @@ self.__precacheManifest = [
   {
     "revision": "6a862f8ff236e321e04c326a32eb8a49",
     "url": "/fonts/KaTeX_Typewriter-Regular.6a862f8f.woff"
-  },
-  {
-    "revision": "ada012c291bf50cf9a349ceb98df6659",
-    "url": "/fonts/KaTeX_SansSerif-Italic.ada012c2.woff"
   },
   {
     "revision": "2057e5cbb505134b0a620e681abc5070",
@@ -248,16 +248,16 @@ self.__precacheManifest = [
     "url": "/fonts/KaTeX_Main-Italic.6d2cd8f0.woff"
   },
   {
+    "revision": "66bab6babbbcb45ee13301e20516eb6a",
+    "url": "/fonts/KaTeX_SansSerif-Italic.66bab6ba.ttf"
+  },
+  {
     "revision": "066914d0bdc0607d66621bfefcac72bc",
     "url": "/fonts/KaTeX_SansSerif-Regular.066914d0.ttf"
   },
   {
     "revision": "85007a59906b95d94b5b06619fde46aa",
     "url": "/fonts/KaTeX_Script-Regular.85007a59.ttf"
-  },
-  {
-    "revision": "66bab6babbbcb45ee13301e20516eb6a",
-    "url": "/fonts/KaTeX_SansSerif-Italic.66bab6ba.ttf"
   },
   {
     "revision": "cd28a1d7203aef546e0f7733d98e8ea9",
@@ -336,11 +336,11 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.186f5dab.css"
   },
   {
-    "revision": "e1c484ea29c4898d4ec5",
+    "revision": "1f2e06c63a3ecfbd765b",
     "url": "/css/articles~home~pages.5ad3fcc6.css"
   },
   {
-    "revision": "ac78250e46ea4393e995",
+    "revision": "87986f0126ee7912b7c9",
     "url": "/css/app.e0f5d487.css"
   }
 ];
